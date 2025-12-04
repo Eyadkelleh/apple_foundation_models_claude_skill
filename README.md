@@ -30,12 +30,30 @@ The goal of this project is to provide clear, organized documentation on how to:
 - Swift and SwiftUI basic knowledge (for implementation)
 - Device or simulator that supports Apple Intelligence and the Foundation Models framework
 
+## Installation
+
+### Install as a Claude Code Skill
+
+This skill is available in the Claude Code marketplace. To install it:
+
+```
+/plugin marketplace add Eyadkelleh/apple_foundation_models_claude_skill
+```
+
+Then install the skill:
+
+```
+/plugin install apple-foundation-models@apple-foundation-models-marketplace
+```
+
+Once installed, Claude Code will automatically suggest this skill when you're working with Apple Foundation Models.
+
 ## Getting Started
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/apple_foundation_models_claude_skill.git
+git clone https://github.com/Eyadkelleh/apple_foundation_models_claude_skill.git
 cd apple_foundation_models_claude_skill
 ```
 
