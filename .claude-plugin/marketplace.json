@@ -1,0 +1,22 @@
+{
+  "name": "apple-foundation-models-marketplace",
+  "owner": "Eyadkelleh",
+  "plugins": [
+    {
+      "name": "apple-foundation-models",
+      "source": ".",
+      "description": "Use this skill when working with Apple's Foundation Models framework for on-device AI and LLM capabilities in iOS/macOS apps",
+      "version": "1.0.0",
+      "author": "Eyadkelleh",
+      "tags": [
+        "apple",
+        "foundation-models",
+        "on-device-ai",
+        "llm",
+        "ios",
+        "macos",
+        "swift"
+      ]
+    }
+  ]
+}
